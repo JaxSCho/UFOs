@@ -32,13 +32,13 @@ Initially, sample placeholder text is provided in the text box as an user input 
 
 ![image](https://user-images.githubusercontent.com/99936542/168511763-e6ff710b-77bf-47ea-9a86-bf79ccb20e09.png)
 
-<b>Fig.2 - Filter Search</b>
+<b>Fig.2 - Filter Search Input Block</b>
 
 By using the D3 JavaScript library interactive functionality by "listening" for events -- in this case, a text change in the any of the search criteria input boxes -- the website is able to detect the text change by the user and able to display a filtered table of searched results. For example, a search for UFO sightings in the state of Kansas (ks) provide the following table of search results (Figure 3).
 
 ![image](https://user-images.githubusercontent.com/99936542/168513279-8440f3af-2560-43ee-9400-236f235ffc42.png)
 
-<b>Fig.3 - Filter Search Results for Sightings at state of Kansas</b>
+<b>Fig.3 - Filter Search Results for Sightings at State of Kansas</b>
 
 ## Summary
 ### New Design Drawback
